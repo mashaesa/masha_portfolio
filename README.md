@@ -7,6 +7,7 @@ Welcome to my portfolio! Below, you'll find selected projects showcasing my skil
 ### **Data Analyst | AI Enthusiast | Creative Problem-Solver**
 
 Welcome to my GitHub portfolio!  
+
 I’m **Masha**, a data analyst with an insatiable curiosity for uncovering the stories hidden within data. My journey began in an unexpected place—during the quiet chaos of lockdown, where I taught myself to navigate financial markets, analyse trends, and build trading strategies. What started as a survival skill quickly grew into a deep fascination with patterns, automation, and the limitless potential of data-driven solutions.
 
 Fast forward a few years, and I’ve transformed that curiosity into a **dynamic career**. From crafting predictive models that forecast air traffic to designing a Python-powered trading bot that automates decisions in real time, I thrive on turning complex challenges into **elegant solutions**. I’m passionate about combining technical expertise with creativity to not only solve problems but to innovate in ways that make a lasting impact.
