@@ -46,3 +46,9 @@ Whether I’m crafting dashboards that transform complexity into clarity or expe
 If you’re as excited about **data, AI, and automation** as I am, let’s connect! Whether you’re tackling a big challenge or brainstorming ideas, I’d love to explore how we can make something extraordinary together.  
 
 ---
+
+## Contact Me  
+- **Email**: [mashasesa@gmail.com](mailto:mashasesa@gmail.com)  
+- **LinkedIn**: [www.linkedin.com/in/mashaesa](https://www.linkedin.com/in/mashaesa)  
+
+
