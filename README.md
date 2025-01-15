@@ -1,4 +1,4 @@
-# Masha's Data Analytics Portfolio
+# Masha's Portfolio
 Welcome to my portfolio! Below, you'll find selected projects showcasing my skills in data analytics, cloud computing, and AI/ML.
 
 ---
